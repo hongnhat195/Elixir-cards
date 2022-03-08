@@ -1,0 +1,684 @@
+{
+  "__struct__": "Elixir.Crawl.Items",
+  "items": [
+    [
+      {
+        "link": "https://ephimmoi.net/hoi-thanh-nien-luot-van/",
+        "number_of_episode": "6",
+        "thumbnail": "-content/uploads/2022/01/hoi-thanh-nien-luot-van-60888-thumbnail.jpg",
+        "title": "Hội Thanh Niên Lướt Ván - SK8 The Infinity (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/dai-chien-thai-binh-duong-vung-toi/",
+        "number_of_episode": "7",
+        "thumbnail": "-content/uploads/2022/01/dai-chien-thai-binh-duong-vung-toi-60873-thumbnail.jpg",
+        "title": "Đại Chiến Thái Bình Dương: Vùng Tối - Pacific Rim: The Black (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/that-hinh-dai-toi-phan-4/",
+        "number_of_episode": "2",
+        "thumbnail": "-content/uploads/2022/01/that-hinh-dai-toi-phan-4-60865-thumbnail.jpg",
+        "title": "Thất Hình Đại Tội (Phần 4) - The Seven Deadly Sins (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/chien-binh-chon-ham-nguc/",
+        "number_of_episode": "2",
+        "thumbnail": "-content/uploads/2022/01/chien-binh-chon-ham-nguc-60863-thumbnail.jpg",
+        "title": "Chiến Binh Chốn Hầm Ngục - The Hidden Dungeon Only I Can Enter (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/mien-dat-hua-phan-2/",
+        "number_of_episode": "10",
+        "thumbnail": "-content/uploads/2022/01/mien-dat-hua-phan-2-60859-thumbnail.jpg",
+        "title": "Miền Đất Hứa (Phần 2) - The Promised Neverland (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/cau-chuyen-neu-nhu-thieu-nien-song-o-ngoi-lang-ngay-truoc-dungeon-cuoi-cung-den-thanh-tan-thu-de-muu-sinh/",
+        "number_of_episode": "5",
+        "thumbnail": "-content/uploads/2022/01/cau-chuyen-neu-nhu-thieu-nien-song-o-ngoi-lang-ngay-truoc-dungeon-cuoi-cung-den-thanh-tan-thu-de-muu-sinh-60853-thumbnail.jpg",
+        "title": "Câu Chuyện Nếu Như Thiếu Niên Sống Ở Ngôi Làng Ngay Trước Dungeon Cuối Cùng Đến Thành Tân Thủ Để Mưu Sinh - Tatoeba Last Dungeon Mae No Mura No Shounen Ga Joban No Machi De Kurasu Youna Monogatari (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/xu-so-cua-tre-con/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2022/01/xu-so-cua-tre-con-60836-thumbnail.jpg",
+        "title": "Xứ Sở Của Trẻ Con - Wonder Egg Priority (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/toan-chuc-cao-thu-phan-2/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2022/01/toan-chuc-cao-thu-phan-2-60796-thumbnail.jpg",
+        "title": "Toàn Chức Cao Thủ (Phần 2) - The King's Avatar 2 (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/chang-trai-vi-cong-dong/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2022/01/chang-trai-vi-cong-dong-60778-thumbnail.jpg",
+        "title": "Chàng Trai Vì Cộng Đồng - Ikebukuro West Gate Park (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/yeu-nham-phe-doi-thu/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2022/01/yeu-nham-phe-doi-thu-60776-thumbnail.jpg",
+        "title": "Yêu Nhầm Phe Đối Thủ - Our Last Crusade Or The Rise Of A New World (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/van-gioi-than-chu/",
+        "number_of_episode": "76",
+        "thumbnail": "-content/uploads/2022/01/van-gioi-than-chu-60768-thumbnail.jpg",
+        "title": "Vạn Giới Thần Chủ - Lord Of The Universe (2019)",
+        "year": "2019"
+      },
+      {
+        "link": "https://ephimmoi.net/dai-chien-titan-phan-1/",
+        "number_of_episode": "30",
+        "thumbnail": "-content/uploads/2022/01/dai-chien-titan-phan-1-60744-thumbnail.jpg",
+        "title": "Đại Chiến Titan (Phần 1) - Attack on Titan (2013)",
+        "year": "2013"
+      },
+      {
+        "link": "https://ephimmoi.net/dai-chien-titan-phan-2/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2022/01/dai-chien-titan-phan-2-60716-thumbnail.jpg",
+        "title": "Đại Chiến Titan (Phần 2) - Attack On Titan (2017)",
+        "year": "2017"
+      },
+      {
+        "link": "https://ephimmoi.net/te-bao-lam-viec-trong-co-the-trung-nien/",
+        "number_of_episode": "4",
+        "thumbnail": "-content/uploads/2022/01/te-bao-lam-viec-trong-co-the-trung-nien-60670-thumbnail.jpg",
+        "title": "Tế Bào Làm Việc Trong Cơ Thể Trung Niên - Hataraku Saibo Black (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/hoc-vien-anh-hung-phan-1/",
+        "number_of_episode": "13",
+        "thumbnail": "-content/uploads/2022/01/hoc-vien-anh-hung-phan-1-60668-thumbnail.jpg",
+        "title": "Học Viện Anh Hùng (Phần 1) - Boku no Hero Academia Season 1 (2016)",
+        "year": "2016"
+      },
+      {
+        "link": "https://ephimmoi.net/huong-vi-la-ky/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2022/01/huong-vi-la-ky-60659-thumbnail.jpg",
+        "title": "Hương Vị Lạ Kỳ - Citrus (2018)",
+        "year": "2018"
+      },
+      {
+        "link": "https://ephimmoi.net/tham-tu-conan-movie-1-qua-bom-choc-troi/",
+        "number_of_episode": "2",
+        "thumbnail": "-content/uploads/2022/01/tham-tu-conan-movie-1-qua-bom-choc-troi-60655-thumbnail.jpg",
+        "title": "Thám Tử Conan Movie 1: Quả Bom Chọc Trời - Detective Conan: The Time Bombed Skyscraper (1997)",
+        "year": "1997"
+      },
+      {
+        "link": "https://ephimmoi.net/cau-lac-bo-huyen-bi/",
+        "number_of_episode": "24",
+        "thumbnail": "-content/uploads/2022/01/cau-lac-bo-huyen-bi-60635-thumbnail.jpg",
+        "title": "Câu Lạc Bộ Huyền Bí - Sorcery Fight (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/cong-chua-ban-yeu/",
+        "number_of_episode": "8",
+        "thumbnail": "-content/uploads/2022/01/cong-chua-ban-yeu-60618-thumbnail.jpg",
+        "title": "Công Chúa Bán Yêu - Hanyou No Yashahime: Sengoku Otogizoushi (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/truyen-kinh-di-nhat-phan-8/",
+        "number_of_episode": "13",
+        "thumbnail": "-content/uploads/2022/01/truyen-kinh-di-nhat-phan-8-60604-thumbnail.jpg",
+        "title": "Truyện Kinh Dị Nhật (Phần 8) - Yami Shibai: Japanese Ghost Stories (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/nhat-niem-vinh-hang/",
+        "number_of_episode": "52",
+        "thumbnail": "-content/uploads/2022/01/nhat-niem-vinh-hang-60566-thumbnail.jpg",
+        "title": "Nhất Niệm Vĩnh Hằng - A Will Eternal (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/maoujou-de-oyasumi/",
+        "number_of_episode": "5",
+        "thumbnail": "-content/uploads/2022/01/maoujou-de-oyasumi-60554-thumbnail.jpg",
+        "title": "Maoujou De Oyasumi - Sleepy Princess in the Demon Castle (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/cun-va-hoang-thuong/",
+        "number_of_episode": "11",
+        "thumbnail": "-content/uploads/2022/01/cun-va-hoang-thuong-60550-thumbnail.jpg",
+        "title": "Cún Và Hoàng Thượng - Inu to Neko Docchi mo Katteru to Mainichi Tanoshii (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/bao-boi-than-ky/",
+        "number_of_episode": "50",
+        "thumbnail": "-content/uploads/2022/01/bao-boi-than-ky-60540-thumbnail.jpg",
+        "title": "Bảo Bối Thần Kỳ - Pokemon (1997)",
+        "year": "1997"
+      },
+      {
+        "link": "https://ephimmoi.net/khi-muon-khoc-toi-deo-mat-na-meo/",
+        "number_of_episode": "Vi",
+        "thumbnail": "-content/uploads/2022/01/khi-muon-khoc-toi-deo-mat-na-meo-60490-thumbnail.jpg",
+        "title": "Khi Muốn Khóc, Tôi Đeo Mặt Nạ Mèo - A Whisker Away (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/hanh-trinh-cua-elaina/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2022/01/hanh-trinh-cua-elaina-60463-thumbnail.jpg",
+        "title": "Hành Trình Của Elaina - The Journey of Elaina (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/tinh-yeu-cai-chet-nguoi-may/",
+        "number_of_episode": "18",
+        "thumbnail": "-content/uploads/2022/01/tinh-yeu-cai-chet-nguoi-may-60439-thumbnail.jpg",
+        "title": "Tình Yêu, Cái Chết & Người Máy - Love, Death & Robots (2019)",
+        "year": "2019"
+      },
+      {
+        "link": "https://ephimmoi.net/thanh-guom-diet-quy/",
+        "number_of_episode": "26",
+        "thumbnail": "-content/uploads/2022/01/thanh-guom-diet-quy-60437-thumbnail.jpg",
+        "title": "Thanh Gươm Diệt Quỷ - Demon Slayer (2019)",
+        "year": "2019"
+      },
+      {
+        "link": "https://ephimmoi.net/mat-troi-chim-day-bien-2020/",
+        "number_of_episode": "10",
+        "thumbnail": "-content/uploads/2022/01/mat-troi-chim-day-bien-2020-60415-thumbnail.jpg",
+        "title": "Mặt Trời Chìm Đáy Biển: 2020 - Japan Sinks: 2020 (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/papa-datte-shitai/",
+        "number_of_episode": "8",
+        "thumbnail": "-content/uploads/2022/01/papa-datte-shitai-60398-thumbnail.jpg",
+        "title": "Papa Datte Shitai - Papa Datte Shitai (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/koisuru-boukun/",
+        "number_of_episode": "2",
+        "thumbnail": "-content/uploads/2022/01/koisuru-boukun-60396-thumbnail.jpg",
+        "title": "Koisuru Boukun - Koisuru Boukun (2010)",
+        "year": "2010"
+      },
+      {
+        "link": "https://ephimmoi.net/the-gioi-nguoi-thu/",
+        "number_of_episode": "11",
+        "thumbnail": "-content/uploads/2022/01/the-gioi-nguoi-thu-60394-thumbnail.jpg",
+        "title": "Thế Giới Người Thú - Beastars (2019)",
+        "year": "2019"
+      }
+    ],
+    [
+      {
+        "link": "https://ephimmoi.net/yu-gi-oh-phan-7/",
+        "number_of_episode": "15",
+        "thumbnail": "-content/uploads/2022/01/yu-gi-oh-phan-7-60390-thumbnail.jpg",
+        "title": "Yu-Gi-Oh! (Phần 7) - Yu-Gi-Oh! Sevens (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/jashin-chan-noi-dien-phan-2/",
+        "number_of_episode": "10",
+        "thumbnail": "-content/uploads/2022/01/jashin-chan-noi-dien-phan-2-60378-thumbnail.jpg",
+        "title": "Jashin-chan Nổi Điên (Phần 2) - Dropkick on My Devil!! (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/huyen-thoai-game-thu/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2021/12/huyen-thoai-game-thu-60196-thumbnail.jpg",
+        "title": "Huyền Thoại Game Thủ - No Game, No Life (2015)",
+        "year": "2015"
+      },
+      {
+        "link": "https://ephimmoi.net/nguoi-sung/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2021/12/nguoi-sung-60149-thumbnail.jpg",
+        "title": "Người Súng - No Guns Life (2019)",
+        "year": "2019"
+      },
+      {
+        "link": "https://ephimmoi.net/ta-la-dai-than-tien-hop/",
+        "number_of_episode": "13",
+        "thumbnail": "-content/uploads/2021/12/ta-la-dai-than-tien-hop-60123-thumbnail.jpg",
+        "title": "Ta Là Đại Thần Tiên Hợp - I Am a Great God (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/sieu-nhan-nguoi-doi-dai-chien-ke-thu-quoc-gia/",
+        "number_of_episode": "HD",
+        "thumbnail": "-content/uploads/2021/12/sieu-nhan-nguoi-doi-dai-chien-ke-thu-quoc-gia-60107-thumbnail.jpg",
+        "title": "Siêu Nhân/Người Dơi Đại Chiến: Kẻ Thù Quốc Gia - Superman/Batman: Public Enemies (2009)",
+        "year": "2009"
+      },
+      {
+        "link": "https://ephimmoi.net/truong-kiem-phong-van/",
+        "number_of_episode": "8",
+        "thumbnail": "-content/uploads/2021/12/truong-kiem-phong-van-60046-thumbnail.jpg",
+        "title": "Trường Kiếm Phong Vân - Long Sword Storm (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/nu-dao-chich-phan-3/",
+        "number_of_episode": "5",
+        "thumbnail": "-content/uploads/2021/12/nu-dao-chich-phan-3-60011-thumbnail.jpg",
+        "title": "Nữ Đạo Chích (Phần 3) - Carmen Sandiego (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/bo-toi-la-mangaka-bien-thai/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2021/12/bo-toi-la-mangaka-bien-thai-59999-thumbnail.jpg",
+        "title": "Bố Tôi Là Mangaka Biến Thái! - Hidden Things (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/gui-den-ban-hien/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2021/12/gui-den-ban-hien-59995-thumbnail.jpg",
+        "title": "Gửi Đến Bạn Hiền - Kimi Ni Todoke (2011)",
+        "year": "2011"
+      },
+      {
+        "link": "https://ephimmoi.net/dai-chien-titan-phan-3/",
+        "number_of_episode": "22",
+        "thumbnail": "-content/uploads/2021/12/dai-chien-titan-phan-3-59967-thumbnail.jpg",
+        "title": "Đại Chiến Titan (Phần 3) - Attack On Titan (2018)",
+        "year": "2018"
+      },
+      {
+        "link": "https://ephimmoi.net/tinh-yeu-muon-mau/",
+        "number_of_episode": "24",
+        "thumbnail": "-content/uploads/2021/12/tinh-yeu-muon-mau-59959-thumbnail.jpg",
+        "title": "Tình Yêu Muôn Màu - Kimikiss Pure Rouge (2008)",
+        "year": "2008"
+      },
+      {
+        "link": "https://ephimmoi.net/du-an-cinderella/",
+        "number_of_episode": "24",
+        "thumbnail": "-content/uploads/2021/12/du-an-cinderella-59932-thumbnail.jpg",
+        "title": "Dự Án Cinderella - The Idolmaster Cinderella Girls (2014)",
+        "year": "2014"
+      },
+      {
+        "link": "https://ephimmoi.net/hoang-tu-hao-hoa/",
+        "number_of_episode": "HD",
+        "thumbnail": "-content/uploads/2021/12/hoang-tu-hao-hoa-59926-thumbnail.jpg",
+        "title": "Hoàng Tử Hào Hoa - Charming (2018)",
+        "year": "2018"
+      },
+      {
+        "link": "https://ephimmoi.net/hoc-vien-anh-hung-phan-4/",
+        "number_of_episode": "25",
+        "thumbnail": "-content/uploads/2021/12/hoc-vien-anh-hung-phan-4-59924-thumbnail.jpg",
+        "title": "Học Viện Anh Hùng (Phần 4) - My Hero Academia (2019)",
+        "year": "2019"
+      },
+      {
+        "link": "https://ephimmoi.net/dai-bang-thong-soi/",
+        "number_of_episode": "24",
+        "thumbnail": "-content/uploads/2021/12/dai-bang-thong-soi-59873-thumbnail.jpg",
+        "title": "Đại Bàng Thống Sói - Altair: A Record of Battles (2017)",
+        "year": "2017"
+      },
+      {
+        "link": "https://ephimmoi.net/tuoi-tre-la-de-tha-cau/",
+        "number_of_episode": "7",
+        "thumbnail": "-content/uploads/2021/12/tuoi-tre-la-de-tha-cau-59867-thumbnail.jpg",
+        "title": "Tuổi Trẻ Là Để Thả Câu! - Diary of Our Days at the Breakwater (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/nu-samurai-tsukikage/",
+        "number_of_episode": "13",
+        "thumbnail": "-content/uploads/2021/12/nu-samurai-tsukikage-59850-thumbnail.jpg",
+        "title": "Nữ Samurai Tsukikage - The Samurai Girl (2000)",
+        "year": "2000"
+      },
+      {
+        "link": "https://ephimmoi.net/dogeza-de-tanondemita/",
+        "number_of_episode": "9",
+        "thumbnail": "-content/uploads/2021/12/dogeza-de-tanondemita-59842-thumbnail.jpg",
+        "title": "Dogeza De Tanondemita - I Tried Asking In Dogeza (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/nguoi-giai-phong-phan-1/",
+        "number_of_episode": "Vi",
+        "thumbnail": "-content/uploads/2021/12/nguoi-giai-phong-phan-1-59831-thumbnail.jpg",
+        "title": "Người Giải Phóng (Phần 1) - The Liberator (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/nhoc-trum-di-lam-lai-phan-4/",
+        "number_of_episode": "(",
+        "thumbnail": "-content/uploads/2021/12/nhoc-trum-di-lam-lai-phan-4-59805-thumbnail.jpg",
+        "title": "Nhóc Trùm: Đi Làm Lại (Phần 4) - The Boss Baby: Back in Business (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/dai-su-huynh-nha-tui-la-phan-dien/",
+        "number_of_episode": "39",
+        "thumbnail": "-content/uploads/2021/12/dai-su-huynh-nha-tui-la-phan-dien-59793-thumbnail.jpg",
+        "title": "Đại Sư Huynh Nhà Tui Là Phản Diện - Wo Jia Da Shixiong Shi Ge Fanpai, There's a Pit in My Senior Martial Brother's Brain 2, Our Big Brother's Mind Has A Problem 2, Wo Jia Da Shixiong Naozi You Keng 2nd Season (2018)",
+        "year": "2018"
+      },
+      {
+        "link": "https://ephimmoi.net/cuoc-san-vang-khac-nghiet-phan-3/",
+        "number_of_episode": "13",
+        "thumbnail": "-content/uploads/2021/12/cuoc-san-vang-khac-nghiet-phan-3-59791-thumbnail.jpg",
+        "title": "Cuộc Săn Vàng Khắc Nghiệt (Phần 3) - Golden Kam",
+        "year": "etsu"
+      },
+      {
+        "link": "https://ephimmoi.net/hoa-giang-ho-chi-quy-da/",
+        "number_of_episode": "20",
+        "thumbnail": "-content/uploads/2021/12/hoa-giang-ho-chi-quy-da-59789-thumbnail.jpg",
+        "title": "Họa Giang Hồ Chi Quỹ Dạ - Hoa Giang Ho Chi Quy Da \n                                        \n                        Trạng thái: Tập 20 HD Vietsub   \n                      \n                     \t\t\t\t\t\t                            Tập phim mới nhất: 201918\t\n                                        Ngôn ngữ: Phụ đề việt\t\t\t\t\tThể loại: Hoạt Hình\n                                                            \n                    \t    \n\t    \t0/\n\t    \t5\n\t    \t0 đánh giá\n\t    \n\t    \n\t        \n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t    \n\t\t                   \n                            \n                \n          \n\n     \n    \n    \n    \n    \n         Vietsub1234567891011121314151617181920Loading server... \n    \n\n    \n\t    \n    \tNội dung phim\n    \n        \n             \n                Họa Giang Hồ Chi Quỹ Dạ,      \n                    \n        \n    \n\t               \n                \n                \n    \n    \n        \t\n\n\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t   Có thể bạn thích x",
+        "year": "etsu"
+      },
+      {
+        "link": "https://ephimmoi.net/thoi-dai-ma-phap/",
+        "number_of_episode": "13",
+        "thumbnail": "-content/uploads/2021/12/thoi-dai-ma-phap-59785-thumbnail.jpg",
+        "title": "Thời đại Ma Pháp - Mahouka Koukou no Rettousei: Raihousha-hen | The Irregular at Magic High School: Visitor Arc (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/anh-hung-ta-khong-lam-lau-roi-2/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2021/12/anh-hung-ta-khong-lam-lau-roi-59783-thumbnail.jpg",
+        "title": "Anh Hùng ? Ta Không Làm Lâu Rồi - Yingxiong Zai Lin, Hero Return, The Hero's Return, Yingxiong? Wo Zao Jiu Bu Dang Le, 英雄？我早就不当了 \n                                        \n                        Trạng thái: Tập 12 Anime HD Vietsub   \n                      \n                     \t\t\t\t\t\t                            Tập phim mới nhất: 121110\t\n                                        Ngôn ngữ: Phụ đề việt\t\t\t\t\tThể loại: Hoạt Hình\n                                                            \n                    \t    \n\t    \t0/\n\t    \t5\n\t    \t0 đánh giá\n\t    \n\t    \n\t        \n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t    \n\t\t                   \n                            \n                \n          \n\n     \n    \n    \n    \n    \n         Vietsub123456789101112Loading server... \n    \n\n    \n\t    \n    \tNội dung phim\n    \n        \n             \n                Anh Hùng ? Ta Không Làm Lâu Rồi, Yingxiong Zai Lin, Hero Return, The Hero's Return, Yingxiong? Wo Zao Jiu Bu Dang Le, 英雄？我早就不当了 Anime Zero Là Siêu Anh Hùng Thực Sự đầu Tiên Của Nhân Loại. Dưới Sự Theo Dõi Của Anh, Vô Số Siêu Anh Hùng Khác đã Xuất Hiện Và Tiếp Bước Anh. Tuy Nhiên, Sau 5 Năm Chiến Tranh, Zero Biến Mất Không Dấu Vết.      \n                    \n        \n    \n\t               \n                \n                \n    \n    \n        \t\n\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t   Phim Liên Qu",
+        "year": "etsu"
+      },
+      {
+        "link": "https://ephimmoi.net/thon-phe-tinh-khong/",
+        "number_of_episode": "26",
+        "thumbnail": "-content/uploads/2021/12/thon-phe-tinh-khong-59716-thumbnail.jpg",
+        "title": "Thôn Phệ Tinh Không - Thon Phe Tinh Khong (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/thap-uc-truong-an/",
+        "number_of_episode": "14",
+        "thumbnail": "-content/uploads/2021/12/thap-uc-truong-an-59714-thumbnail.jpg",
+        "title": "Thập Ức Trường An - Shi Yi Chang*An - Ming Yue Ji Shi You (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/tensei-shitara-slime-datta-ken-ova/",
+        "number_of_episode": "5",
+        "thumbnail": "-content/uploads/2021/12/tensei-shitara-slime-datta-ken-ova-59711-thumbnail.jpg",
+        "title": "Tensei Shitara Slime Datta Ken OVA - That Time I Got Reincarnated as a Slime OAD, TenSura OVA (2019)",
+        "year": "2019"
+      },
+      {
+        "link": "https://ephimmoi.net/lam-chuyen-phan-4/",
+        "number_of_episode": "Fu",
+        "thumbnail": "-content/uploads/2021/12/lam-chuyen-phan-4-59690-thumbnail.jpg",
+        "title": "Lắm Chuyện (Phần 4) - Big Mouth (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/dai-vuong-tha-mang/",
+        "number_of_episode": "Ph",
+        "thumbnail": "-content/uploads/2021/12/dai-vuong-tha-mang-59684-thumbnail.jpg",
+        "title": "Đại Vương Tha Mạng - Dai Vuong Tha Mang (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/shirogane-no-ishi-argevollen/",
+        "number_of_episode": "24",
+        "thumbnail": "-content/uploads/2021/12/shirogane-no-ishi-argevollen-59667-thumbnail.jpg",
+        "title": "Shirogane No Ishi: Argevollen - Argevollen, Hakugin no Ishi: Argevollen, Silver Will Argevollen (2014)",
+        "year": "2014"
+      }
+    ],
+    [
+      {
+        "link": "https://ephimmoi.net/ong-thay-vi-dieu/",
+        "number_of_episode": "(",
+        "thumbnail": "-content/uploads/2021/12/ong-thay-vi-dieu-59655-thumbnail.jpg",
+        "title": "Ông Thầy Vi Diệu - Akashic Records of Bastard Magic Instructor (2017)",
+        "year": "2017"
+      },
+      {
+        "link": "https://ephimmoi.net/skate-leading%e2%98%86stars/",
+        "number_of_episode": "2",
+        "thumbnail": "-content/uploads/2021/12/skate-leading-e2-98-86stars-59552-thumbnail.jpg",
+        "title": "Skate-Leading☆Stars - Skate-Leading☆Stars (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/garo-versus-road/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2021/12/garo-versus-road-59550-thumbnail.jpg",
+        "title": "Garo: Versus Road - Garo: Versus Road (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/hilda-phan-2/",
+        "number_of_episode": "13",
+        "thumbnail": "-content/uploads/2021/12/hilda-phan-2-59548-thumbnail.jpg",
+        "title": "Hilda (Phần 2) - Hilda (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/fate-grand-carnival/",
+        "number_of_episode": "1",
+        "thumbnail": "-content/uploads/2021/12/fate-grand-carnival-59546-thumbnail.jpg",
+        "title": "Fate/Grand Carnival - Fate/Grand Carnival (2020)",
+        "year": "2020"
+      },
+      {
+        "link": "https://ephimmoi.net/urasekai-picnic/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2021/12/urasekai-picnic-59525-thumbnail.jpg",
+        "title": "Urasekai Picnic - Urasekai Picnic \n                                        \n                        Trạng thái: Tập 12 Anime HD Vietsub   \n                      \n                     \t\t\t\t\t\t                            Tập phim mới nhất: 121110\t\n                                        Ngôn ngữ: Phụ đề việt\t\t\t\t\tThể loại: Hoạt Hình, Nhật Bản\n                    Quốc gia:2020                                        \n                    \t    \n\t    \t0/\n\t    \t5\n\t    \t0 đánh giá\n\t    \n\t    \n\t        \n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t    \n\t\t                   \n                            \n                \n          \n\n     \n    \n    \n    \n    \n         Vietsub123456789101112Loading server... \n    \n\n    \n\t    \n    \tNội dung phim\n    \n        \n             \n                Urasekai Picnic, Anime Một Ngày Nọ, Sorawo Vô Tình Mở Ra “cánh Cửa” Dẫn đến Thế Giới Của Những Tồn Tại Dị Thường. Cô Gặp Gỡ Toriko, Một Cô Gái Bí ẩn đang Trên đường Tìm Kiếm Người Bạn Mất Tích. Cùng Nhau, Hai Người Họ Khám Phá Những Bí Mật đáng Sợ Của “thế Giới Bên Kia”…      \n                    \n        \n    \n\t               \n                \n                \n    \n    \n        \t\n\n\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t   Có thể bạn thích x",
+        "year": "etsu"
+      },
+      {
+        "link": "https://ephimmoi.net/yuragi-sou-no-yuuna-san/",
+        "number_of_episode": "OV",
+        "thumbnail": "-content/uploads/2021/12/yuragi-sou-no-yuuna-san-59519-thumbnail.jpg",
+        "title": "Yuragi-sou No Yuuna-san - Yuuna of Yuragi Manor, Yuuna and the Haunted Hot Springs (2018)",
+        "year": "2018"
+      },
+      {
+        "link": "https://ephimmoi.net/tensei-shitara-slime-datta-ken-2nd-season/",
+        "number_of_episode": "24",
+        "thumbnail": "-content/uploads/2021/12/tensei-shitara-slime-datta-ken-2nd-season-59517-thumbnail.jpg",
+        "title": "Tensei Shitara Slime Datta Ken 2nd Season - Tensei Shitara Slime Datta Ken 2nd Season (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/i%e2%98%85chu-halfway-through-the-idol/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2021/12/i-e2-98-85chu-halfway-through-the-idol-59515-thumbnail.jpg",
+        "title": "I★Chu: Halfway Through The Idol - I★Chu: Halfway Through The Idol (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/hortensia-saga-tv/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2021/12/hortensia-saga-tv-59513-thumbnail.jpg",
+        "title": "Hortensia Saga (TV) - Hortensia Saga -TV- (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/yakusoku-no-neverland-2nd-season/",
+        "number_of_episode": "11",
+        "thumbnail": "-content/uploads/2021/12/yakusoku-no-neverland-2nd-season-59511-thumbnail.jpg",
+        "title": "Yakusoku No Neverland 2nd Season - The Promised Neverland 2nd Season (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/tenchi-souzou-design-bu/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2021/12/tenchi-souzou-design-bu-59491-thumbnail.jpg",
+        "title": "Tenchi Souzou Design-bu - Tenchi Souzou Design-bu (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/kumo-desu-ga-nani-ka-so-i-8217-m-a-spider-so-what/",
+        "number_of_episode": "24",
+        "thumbnail": "-content/uploads/2021/12/kumo-desu-ga-nani-ka-so-im-a-spider-so-what-59489-thumbnail.jpg",
+        "title": "Kumo Desu Ga, Nani Ka? / So I’m A Spider, So What? - Kumo Desu Ga- Nani Ka? / So I--8217-m A Spider- So What? (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/project-scard-praeter-no-kizu-project-scard-scar-on-the-praeter/",
+        "number_of_episode": "13",
+        "thumbnail": "-content/uploads/2021/12/project-scard-praeter-no-kizu-project-scard-scar-on-the-praeter-59487-thumbnail.jpg",
+        "title": "Project Scard: Praeter No Kizu / Project Scard: Scar On The Praeter - Project Scard: Praeter No Kizu / Project Scard: Scar On The Praeter (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/jaku-chara-tomozaki-kun-the-low-tier-character-8220-tomozaki-kun-8221/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2021/12/jaku-chara-tomozaki-kun-the-low-tier-character-tomozaki-kun-59485-thumbnail.jpg",
+        "title": "Jaku-Chara Tomozaki-kun / The Low Tier Character “Tomozaki-kun” - Jaku-Chara Tomozaki-kun / The Low Tier Character --8220-Tomozaki-kun--8221- (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/bien-nien-su-idhun-phan-2/",
+        "number_of_episode": "5",
+        "thumbnail": "-content/uploads/2021/12/bien-nien-su-idhun-phan-2-59463-thumbnail.jpg",
+        "title": "Biên Niên Sử Idhun (Phần 2) - The Idhun Chronicles (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/kaifuku-jutsushi-no-yarinaoshi-redo-of-healer-kaifuku-jutsushi-yarinaoshi-sokushi-mahou-to-skill-copy-no-chouetsu-hea/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2021/12/kaifuku-jutsushi-no-yarinaoshi-redo-of-healer-kaifuku-jutsushi-yarinaoshi-sokushi-mahou-to-skill-copy-no-chouetsu-hea-59455-thumbnail.jpg",
+        "title": "Kaifuku Jutsushi No Yarinaoshi | Redo Of Healer | Kaifuku Jutsushi Yarinaoshi: Sokushi Mahou To Skill Copy No Chouetsu Hea - Redo of Healer | Kaifuku Jutsushi Yarinaoshi: Sokushi Mahou To Skill Copy No Chouetsu Hea (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/world-witches-take-off/",
+        "number_of_episode": "9",
+        "thumbnail": "-content/uploads/2021/12/world-witches-take-off-59453-thumbnail.jpg",
+        "title": "World Witches Take Off! - World Witches Take Off! (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/jimihen-jimiko-wo-kaechau-jun-isei-kouyuu-jimihen-pure-heterosexual-exchange-that-changes-a-reserved-girl/",
+        "number_of_episode": "8",
+        "thumbnail": "-content/uploads/2021/12/jimihen-jimiko-wo-kaechau-jun-isei-kouyuu-jimihen-pure-heterosexual-exchange-that-changes-a-reserved-girl-59451-thumbnail.jpg",
+        "title": "Jimihen!!: Jimiko Wo Kaechau Jun Isei Kouyuu!! | Jimihen!!: Pure Heterosexual Exchange That Changes A Reserved Girl - Jimihen!!: Pure Heterosexual Exchange That Changes a Reserved Girl (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/mushoku-tensei-isekai-ittara-honki-dasu-mushoku-tensei-jobless-reincarnation/",
+        "number_of_episode": "11",
+        "thumbnail": "-content/uploads/2021/12/mushoku-tensei-isekai-ittara-honki-dasu-mushoku-tensei-jobless-reincarnation-59449-thumbnail.jpg",
+        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu | Mushoku Tensei: Jobless Reincarnation - Mushoku Tensei: Jobless Reincarnation (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/nanatsu-no-taizai-fundo-no-shinpan/",
+        "number_of_episode": "20",
+        "thumbnail": "-content/uploads/2021/12/nanatsu-no-taizai-fundo-no-shinpan-59446-thumbnail.jpg",
+        "title": "Nanatsu No Taizai: Fundo No Shinpan - The Seven Deadly Sins: Dragon's Judgement | The Seven Deadly Sins: Judgement of Fury | Mùa thứ tư của Nanatsu no Taizai (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/sk%e2%88%9e/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2021/12/sk-e2-88-9e-59444-thumbnail.jpg",
+        "title": "SK∞ - SK8 the Infinity | SK Eight (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/back-arrow/",
+        "number_of_episode": "20",
+        "thumbnail": "-content/uploads/2021/12/back-arrow-59439-thumbnail.jpg",
+        "title": "Back Arrow - Back Arrow (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/wonder-egg-priority/",
+        "number_of_episode": "13",
+        "thumbnail": "-content/uploads/2021/12/wonder-egg-priority-59437-thumbnail.jpg",
+        "title": "Wonder Egg Priority - Wonder Egg Priority (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/idoly-pride/",
+        "number_of_episode": "16",
+        "thumbnail": "-content/uploads/2021/12/idoly-pride-59435-thumbnail.jpg",
+        "title": "Idoly Pride - Idoly Pride (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/yami-shibai-8/",
+        "number_of_episode": "13",
+        "thumbnail": "-content/uploads/2021/12/yami-shibai-8-59433-thumbnail.jpg",
+        "title": "Yami Shibai 8 - Yamishibai: Japanese Ghost Stories Eighth Season | Yamishibai: Japanese Ghost Stories 8 | Mùa thứ 8 của chuỗi Series phim kinh dị Yami Shibai (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/qua-nhanh-qua-nguy-hiem-diep-vien-toc-do-phan-6/",
+        "number_of_episode": "Fu",
+        "thumbnail": "-content/uploads/2021/12/qua-nhanh-qua-nguy-hiem-diep-vien-toc-do-phan-6-59418-thumbnail.jpg",
+        "title": "Quá Nhanh Quá Nguy Hiểm: Điệp Viên Tốc Độ (Phần 6) - Fast & Furious Spy Racers (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/te-cong-hang-long-giang-the/",
+        "number_of_episode": "Th",
+        "thumbnail": "-content/uploads/2021/12/te-cong-hang-long-giang-the-59411-thumbnail.jpg",
+        "title": "Tế Công: Hàng Long Giáng Thế - Master Ji Gong (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/hit-monkey-phan-1/",
+        "number_of_episode": "Fu",
+        "thumbnail": "-content/uploads/2021/12/hit-monkey-phan-1-59384-thumbnail.jpg",
+        "title": "Hit-Monkey (Phần 1) - Marvel' s Hit-Monkey (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/log-horizon-entaku-houkai/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2021/12/log-horizon-entaku-houkai-59366-thumbnail.jpg",
+        "title": "Log Horizon: Entaku Houkai - Log Horizon: Destruction of the Round Table | Log Horizon 3rd Season (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/bungou-stray-dogs-wan/",
+        "number_of_episode": "4",
+        "thumbnail": "-content/uploads/2021/12/bungou-stray-dogs-wan-59346-thumbnail.jpg",
+        "title": "Bungou Stray Dogs Wan! - Bunsuto Wan! (2021)",
+        "year": "2021"
+      },
+      {
+        "link": "https://ephimmoi.net/chien-binh-o-an-trong-ham-nguc/",
+        "number_of_episode": "12",
+        "thumbnail": "-content/uploads/2021/12/chien-binh-o-an-trong-ham-nguc-59344-thumbnail.jpg",
+        "title": "CHIẾN BINH Ở ẨN TRONG HẦM NGỤC - The Hidden Dungeon Only I Can Enter, Special training in the Secret Dungeon | Ore dake Haireru Kakushi Dungeon (2021)",
+        "year": "2021"
+      }
+    ]
+  ],
+  "total": 96
+}
